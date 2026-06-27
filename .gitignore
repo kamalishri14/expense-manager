@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+transactions.json
+test_transactions.json
+.DS_Store
+venv/
+.vscode/
