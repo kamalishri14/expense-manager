@@ -1,0 +1,10 @@
+[
+  {
+    "txn_id": 1,
+    "type": "income",
+    "category": "Food",
+    "amount": 50000.0,
+    "note": "thankyou",
+    "date": "2026-06-27"
+  }
+]
